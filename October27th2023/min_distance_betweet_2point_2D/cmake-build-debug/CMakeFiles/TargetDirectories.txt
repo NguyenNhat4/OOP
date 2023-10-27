@@ -1,0 +1,3 @@
+C:/Users/minhn/CLionProjects/OOP/October27th2023/min_distance_betweet_2point_2D/cmake-build-debug/CMakeFiles/min_distance_betweet_2point_2D.dir
+C:/Users/minhn/CLionProjects/OOP/October27th2023/min_distance_betweet_2point_2D/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/minhn/CLionProjects/OOP/October27th2023/min_distance_betweet_2point_2D/cmake-build-debug/CMakeFiles/rebuild_cache.dir
